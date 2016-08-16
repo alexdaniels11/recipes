@@ -8,6 +8,7 @@
   <link rel="icon" type="image/png" href="img/favicon.png" />
   <title>Daniels' Family Recipes</title>
   <link rel="stylesheet" type="text/css" href="css/ma2-style.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/site.css">
 </head>
 
