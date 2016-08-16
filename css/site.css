@@ -2,10 +2,12 @@
     white-space: normal;
 }
 
-.expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td[colspan="2"] {
-	padding-left: .5rem;
+.expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td, .expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td.background--white, .expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td.cooking-info, .expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td.[colspan="2"] {
+	padding-left: .5rem !important;
 }
 
-
+.expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td {
+	padding-left: .5rem !important;
+}
 
 /* YOUR CUSTOM CSS HERE */

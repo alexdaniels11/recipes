@@ -9,7 +9,8 @@
     <table id="searchTable" class="ma-table ma-table-fullwidth ma-table-fixed expandable-table-data">
       <thead class="ma-table-header">
         <tr>
-          <th colspan="2">List of Recipes</th>
+          <th>List of Recipes</th>
+          <th>Cooking Information</th>
         </tr>
       </thead>
       <tbody>
@@ -19,7 +20,8 @@
 
       <!-- START -->
         <tr class="expand-tr">
-          <td colspan="2" class="background--white">Avocado Caprese Skillet Chicken<span class="sign plus"></span></td>
+          <td class="background--white">Avocado Caprese Skillet Chicken<span class="sign plus"></span></td>
+          <td>4 Servings</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -83,6 +85,42 @@
 
       <!-- START -->
         <tr class="expand-tr">
+          <td class="background--white">Baked Pesto Parmesan Chicken<span class="sign plus"></span></td>
+          <td class="cooking-info">4 Servings | 10 min. prep time | 30 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>4 chicken breast (preferably organic)</li>
+                  <li>6 tbsp pesto</li>
+                  <li>black pepper</li>
+                  <li>pinch of salt</li>
+                  <li>1 dl / 0,4 cup grated Parmesan</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat oven to 390&deg;.</li>
+              <li>Prepare the pesto.</li>
+              <li>Place chicken breast in a baking tray that is lightly sprayed with cooking oil.</li>
+              <li>Season with black pepper and a pinch of salt if you like.</li>
+              <li>Top chicken breasts with pesto and grated Parmesan.</li>
+              <li>Bake for 20 to 30 minutes depending on the size of the chicken breasts. It is well done when the inner temperature is 165&deg;.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+      
+      <!-- START -->
+        <tr class="expand-tr">
           <td colspan="2" class="background--white">Butter Cream Scallops<span class="sign plus"></span></td>
         </tr>
         <tr class="sub-tr" style="display: none;">
@@ -116,6 +154,45 @@
       <!-- END -->
 
 
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Buttermilk Ranch Oven Fried Chicken<span class="sign plus"></span></td>
+          <td class="cooking-info">6 Servings | 10 min. prep time | 35 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>3 - 4 lbs cut-up fryer</li>
+                  <li>1 1oz envelope ranch salad dressing and seasoning mix</li>
+                  <li>2 cups buttermilk</li>
+                  <li>1 8.5 oz box corn muffin mix</li>
+                  <li>1 tsp salt</li>
+                  <li>1 tsp pepper</li>
+                  <li>1 tsp paprika</li>
+                  <li>¼ tsp cayenne</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Combine chicken, ranch seasoning, and buttermilk in a large ziploc bag.</li>
+              <li>Turn the bag over several times to ensure the chicken is coated with the ranch and buttermilk and place in the refrigerator. Refrigerate for the entire day or at least one hour.</li>
+              <li>Preheat the oven to 425&deg;.</li>
+              <li>Spay a large baking sheet with cooking spray and set aside.</li>
+              <li>Combine corn muffin mix and seasonings in a shallow bowl.</li>
+              <li>Remove the chicken pieces one at a time an shake off the excess buttermilk.</li>
+              <li>Dip the chicken in the breading, turning to evenly coat. Shake off excess and place chicken, bone side down, on the prepared baking sheet.</li>
+              <li>Repeat for remaining chicken pieces.</li>
+              <li>Lightly spray the top of each piece of chicken with cooking spray.</li>
+              <li>Bake for 35 to 40 minutes or until chicken is cooked through and juices run clear. Check the chicken at about 30 minutes and if the coating is turning too brown, just place a piece of foil lightly over the top of the chicken to prevent further browning.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
 
 
 
@@ -160,7 +237,8 @@
 
       <!-- START -->
         <tr class="expand-tr">
-          <td colspan="2" class="background--white">Chicken and Potatoes with Garlic Parmesan Cream Sauce<span class="sign plus"></span></td>
+          <td class="background--white">Chicken and Potatoes with Garlic Parmesan Cream Sauce<span class="sign plus"></span></td>
+          <td class="cooking-info">6 Servings</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -209,6 +287,53 @@
 
 
 
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Chicken Bacon Garlic Alfredo Roll Ups<span class="sign plus"></span></td>
+          <td class="cooking-info">8 Servings | 20 min. prep time | 30 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>8 Lasagne noodles</li>
+                  <li>2 cups cooked and shredded chicken (I used rotisserie)</li>
+                  <li>1 pound bacon, cooked and crumbled</li>
+                  <li>2 cups shredded mozzarella cheese</li>
+                  <li>Garlic Alfredo Sauce:</li>
+                  <li>½ cup butter</li>
+                  <li>1 pint heavy whipping cream (2 cups)</li>
+                  <li>4 ounces cream cheese</li>
+                  <li>½ teaspoon minced garlic</li>
+                  <li>1 teaspoon garlic powder</li>
+                  <li>1 teaspoon italian seasoning</li>
+                  <li>¼ teaspoon salt</li>
+                  <li>¼ teaspoon pepper</li>
+                  <li>1 cup grated parmesan cheese</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat oven to 350 degrees. Spray an 9x13 inch pan with cooking spray and set aside.</li>
+              <li>Cook the lasagna noodles according to package directions until al dente. Drain and rinse the noodles with cold water and lay them on a paper towel to remove excess water.</li>
+              <li>In a medium saucepan add butter, heavy whipping cream, and cream cheese. Cook over medium heat and whisk until melted. Add the minced garlic, garlic powder, italian seasoning, salt and pepper. Continue to whisk until smooth. Add the grated parmesan cheese. Bring to a simmer and continue to cook for about 3-5 minutes or until it starts to thicken. Line the bottom of the 9x13 inch pan with 1 cup of the alfredo sauce.</li>
+              <li>Spread 2 Tbs of the alfredo sauce over each noodle. Take ⅛th of the shredded chicken and bacon and spread evenly over each noodle and top with about 3 Tbs shredded cheese. Carefully roll up each lasagne noodle and place seam side down in your 9×13 prepared pan. Repeat.</li>
+              <li>Once they are all in the pan, pour the remaining alfredo sauce over the top and top with remaining cheese. Bake at 350 for about 30 minutes until heated through and cheese is bubbly.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Creamy Parmesan Garlic Muchroom Chicken<span class="sign plus"></span></td>
@@ -249,6 +374,96 @@
               <li>Lower heat to medium-low on simmer &amp; add Spinach to wilt</li>
               <li>Once Spinach is wilted, add back into the pan Chicken, Mushrooms &amp; Olive Oil from the bowl &amp; mix in the Mushrooms &amp; Olive Oil evenly into the sauce</li>
               <li>Let cook in pan for another 4-6 minutes &amp; serve</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Dill Pickle Pasta Salad<span class="sign plus"></span></td>
+          <td class="cooking-info">8 Servings | 10 min. prep time | 8 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>½ lb dry shell pasta (about 3 cups)</li>
+                  <li>¾ cup sliced pickles</li>
+                  <li>⅔ cup cheddar cheese, diced</li>
+                  <li>3 tablespoons finely diced white onion</li>
+                  <li>2 tablespoons fresh dill</li>
+                  <li>½ cup pickle juice</li>
+                </ul>
+              </li>
+              <li>Dressing
+                <ul>
+                <li>⅔ cup mayonnaise</li>
+                <li>⅓ cup sour cream</li>
+                <li>⅛ tsp cayenne pepper</li>
+                <li>4 tablespoons pickle juice</li>
+                <li>salt &amp; pepper to taste</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Boil pasta al dente according to package directions. Run under cold water to stop cooking</li>
+              <li>Toss cold pasta with about ½ cup of pickle juice and set aside for about 5 minutes. Drain &amp; discard pickle juice.</li>
+              <li>Combine all dressing ingredients in a small bowl and mix well.</li>
+              <li>Toss all ingredients in a large bowl. Refrigerate at least 1 hour before serving.</li> 
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Spaghetti Squash Carbonara<span class="sign plus"></span></td>
+          <td class="cooking-info">3 Servings | 12 min. prep time | 90 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>2 teaspoons salt, divided</li>
+                  <li>1 1/4 teaspoons fresh cracked black pepper</li>
+                  <li>1 large spaghetti squash (about 2 pounds)</li>
+                  <li>4 slices bacon, cut into small strips crosswise</li>
+                  <li>2 teaspoons minced garlic</li>
+                  <li>1/4 cup chicken broth</li>
+                  <li>2 egg yolks plus 1 whole egg</li>
+                  <li>1 cup freshly grated Parmesan cheese</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat the oven to 375&deg;</li>
+              <li>Prick the squash all over with a fork</li>
+              <li>Sprinkle with 1 tsp salt and 3/4 tsp. pepper</li>
+              <li>Roast on a foil lined pan  1 to 1 1/2 hours</li>
+              <li>Let cool a bit.  Slice in half lengthwise, scoop out seeds and shred the squash with a fork then transfer to a large bowl</li>
+              <li>In a large saute pan, over medium heat, cook the bacon until it becomes crispy</li>
+              <li>Add the garlic and saute for 1 minute</li>
+              <li>Add the broth and cook until the liquid has completely evaporated</li>
+              <li>In a medium bowl, whisk the eggs together with the cheese and season with the remaining salt and pepper</li>
+              <li>Combine the eggs with the bacon mixture, warming the eggs in the pan (Do not let the eggs cook through)</li>
+              <li>Add the spaghetti squash and toss to thoroughly combine and until squash is heated through</li>
+              <li>Adjust seasoning if necessary and serve immediately</li>
             </ol>
           </td>
         </tr>
