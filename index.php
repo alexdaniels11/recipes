@@ -17,6 +17,69 @@
 
 
 
+      <!-- START -->
+        <tr class="expand-tr">
+          <td colspan="2" class="background--white">Avocado Caprese Skillet Chicken<span class="sign plus"></span></td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>2 (10 - 11 oz each) boneless skinless chicken breasts, butterflied and halved</li>
+                  <li>1/2 tsp garlic powder</li>
+                  <li>1/2 tsp onion powder</li>
+                  <li>1/2 tsp Italian seasoning</li>
+                  <li>Salt and freshly ground black pepper</li>
+                  <li>2 Tbsp olive oil</li>
+                  <li>6 oz fresh mozzarella, cut into 8 slices</li>
+                  <li>4 avocado slices (from a firm but ripe large avocado)</li>
+                  <li>2 medium vine ripened tomatoes, sliced</li>
+                  <li>3 Tbsp balsamic glaze (I used Bertolli)</li>
+                  <li>1/3 cup chopped basil ribbons</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>In a bowl mix together garlic powder, onion powder, Italian seasoning, 1/2 tsp salt and 1/4 tsp pepper. Sprinkle mixture evenly over both sides of each chicken cutlet</li>
+              <li>Heat olive oil in a 12-inch skillet over medium-high heat</li>
+              <li>Add chicken (cover pan with a splatter screen if you have one) and cook until golden brown on bottom, about 4 - 6 minutes</li>
+              <li>Rotate and cook opposite side until chicken has nearly cooked thRough, reducing burner temperature just slightly if needed, about 4 - 5 minutes (it should be nearly 160 in center on an instant read thermometer)</li>
+              <li>Add two slices of mozzarella to the top each cutlet, followed by one avocado slice, and 1 - 2 tomato slices</li>
+              <li>Cover pan with lid, return to heat and allow to cook 1 - 2 minutes longer until cheese has melted and chicken registers 165 in center</li>
+              <li>Sprinkle chicken with pepper, drizzle with balsamic glaze and sprinkle with fresh basil and serve</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td colspan="2" class="background--white">Baked Bell Pepper Tacos<span class="sign plus"></span></td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <div>NEED TO SEE CARD</div>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <div>NEED TO SEE CARD</div>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+      
+
+
 
       <!-- START -->
         <tr class="expand-tr">
@@ -92,6 +155,58 @@
           </td>
         </tr>
       <!-- END -->
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td colspan="2" class="background--white">Chicken and Potatoes with Garlic Parmesan Cream Sauce<span class="sign plus"></span></td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>6 bone-in, skin-on chicken thighs</li>
+                  <li>1 tablespoon Italian seasoning</li>
+                  <li>Kosher salt and freshly ground black pepper, to taste</li>
+                  <li>3 tablespoons unsalted butter, divided</li>
+                  <li>3 cups baby spinach, roughly chopped</li>
+                  <li>16 ounces baby Dutch potatoes, halved*</li>
+                  <li>2 tablespoons chopped fresh parsley leaves</li>
+                </ul>
+              </li>
+              <li>Sauce
+                <ul>
+                  <li>1/4 cup unsalted butter</li>
+                  <li>4 cloves garlic, minced</li>
+                  <li>2 tablespoons all-purpose flour</li>
+                  <li>1 cup chicken broth, or more, as needed</li>
+                  <li>1 teaspoon dried thyme</li>
+                  <li>1/2 teaspoon dried basil</li>
+                  <li>1/2 cup half and half*</li>
+                  <li>1/2 cup freshly grated Parmesan</li>
+                  <li>Kosher salt and freshly ground black pepper, to taste</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat oven to 400&deg;. Lightly oil a 9×13 baking dish or coat with nonstick spray.</li>
+              <li>Season chicken with Italian seasoning, salt and pepper, to taste.</li>
+              <li>Melt 2 tablespoons butter in a large skillet over medium high heat. Add chicken, skin-side down, and sear both sides until golden brown, about 2-3 minutes per side; set aside.</li>
+              <li>Melt remaining 1 tablespoon butter in the skillet. Stir in spinach and cook, stirring occasionally, until it begins to wilt, about 2 minutes; set aside.</li>
+              <li>To make the garlic parmesan cream sauce, melt butter in the skillet over medium heat. Add garlic, and cook, stirring frequently, until fragrant, about 1-2 minutes. Whisk in flour until lightly browned, about 1 minute.</li>
+              <li>Gradually whisk in chicken broth, thyme and basil. Cook, whisking constantly, until incorporated, about 1-2 minutes. Stir in half and half and Parmesan until slightly thickened, about 1-2 minutes. If the mixture is too thick, add more milk as needed; season with salt and pepper, to taste.</li>
+              <li>Place chicken in a single layer into the prepared baking dish. Top with potatoes, spinach and cream sauce.</li>
+              <li>Place into oven and roast until completely cooked through, reaching an internal temperature of 165&deg;, about 25-30 minutes.</li>
+              <li>Serve immediately, garnished with parsley, if desired.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
 
 
       <!-- START -->
