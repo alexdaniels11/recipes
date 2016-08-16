@@ -1,0 +1,11 @@
+.ma-table.ma-table-fixed td {
+    white-space: normal;
+}
+
+.expandable-table-data tr.expand-tr ~ tr[style="display: table-row;"] td[colspan="2"] {
+	padding-left: .5rem;
+}
+
+
+
+/* YOUR CUSTOM CSS HERE */
