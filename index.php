@@ -235,6 +235,49 @@
 
 
 
+      
+      <!-- START -->
+        <tr class="expand-tr">
+          <td colspan="2" class="background--white">Cheesy Tortellini Spinach Bake<span class="sign plus"></span></td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>1 12 oz. cheese or cheese and spinach tortellini</li>
+                  <li>4 strips bacon</li>
+                  <li>3 tsp. minced garlic</li>
+                  <li>2 TB flour</li>
+                  <li>2 cups milk</li>
+                  <li>¾ tsp. salt</li>
+                  <li>⅛ tsp. black pepper</li>
+                  <li>1 tsp. dried basil</li>
+                  <li>2 cups chopped, fresh spinach</li>
+                  <li>¾ cup grated mozzarella cheese</li>
+                  <li>¾ cup grated Parmesan cheese</li>
+                  <li>2 tsp. lemon juice</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat oven to 350 degrees.</li>
+              <li>Fill a large pot with water and bring to a boil. Add tortellini and cook as directed on the package.</li>
+              <li>Cook bacon and cut up. Reserve bacon fat from pan. Add garlic and cook for a minute or two. Add flour to the pan and whisk for a minute. Add milk and mix until smooth. Add salt, pepper, lemon juice and basil and bring to a simmer.</li>
+              <li>Drain tortellini and add back to the pot. Turn to low heat and add spinach and most of the mozzarella, Parmesan cheeses and bacon. Add sauce and stir until well combined.</li>
+              <li>Add to an 8x8 or 9x9 dish. Top with the remaining mozzarella cheese, Parmesan cheese and bacon.</li>
+              <li>Cover your dish with foil and bake for 20 minutes. Remove foil and bake for an additional 5 minutes.</li>
+              <li>Serve and enjoy!</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td class="background--white">Chicken and Potatoes with Garlic Parmesan Cream Sauce<span class="sign plus"></span></td>
