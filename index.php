@@ -67,14 +67,24 @@
             <ul>
               <li>Main
                 <ul>
-                  <div>NEED TO SEE CARD</div>
+                  <li>4 large Bell Peppers</li>
+                  <li>3-4 cups of Taco Filling of your choice</li>
+                  <li>3/4 cups of Shredded Cheese</li>
+                  <li>3/4 cup of Chopped Tomato</li>
+                  <li>3/4 cups Chopped Lettuce</li>
+                  <li>Cilantro as desired</li>
+                  <li>Taco seasoning</li>
                 </ul>
               </li>
             </ul>
           </td>
           <td>
             <ol>
-              <div>NEED TO SEE CARD</div>
+              <li>Pre-heat oven to 400 degrees</li>
+              <li>Slice each pepper in half and hollow out the middle</li>
+              <li>Lay peppers on baking sheet and cook for 8-10 minutes or 10-15 minutes for softer peppers</li>
+              <li>Fill each pepper to the brim with taco meat and cheese</li>
+              <li>Bake for another 10 minutes and then pile high with toppings</li>
             </ol>
           </td>
         </tr>
