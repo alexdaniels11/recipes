@@ -436,6 +436,46 @@
 
 
 
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Crispy Baked Avocado Fries &amp; Chipotle Dipping Sauce<span class="sign plus"></span></td>
+          <td class="cooking-info">2 Servings | 5 min. prep time | 20 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>2 large avocados, sliced</li>
+                  <li>Juice of ½ lime (optional)</li>
+                  <li>Salt &amp; Pepper</li>
+                  <li>¼ cup flour</li>
+                  <li>1 egg, lightly beaten</li>
+                  <li>1 cup panko bread crumbs</li>
+                  <li>2 tablespoons oil</li>
+                  <li><a href="http://gimmedelicious.com/2014/06/21/how-to-make-chipotle-sauce/" target="_blank">Chipotle dipping sauce</a></li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Pre-heat oven to 400 Degrees F. Pour 1 tablespoon oil in sheet tray or baking dish; set aside.</li>
+              <li>Squeeze fresh lime juice on avocado slices to preserve their color while baking (this step is optional). Season with salt, pepper. Dredge in flour then dip in egg and coat in panko breadcrumbs. Be sure the avocado slices are coated very well in the panko.</li>
+              <li>Place in a single layer on the greased sheet pan. Drizzle with the remaining oil or spray with cooking spray. This will help the avocado slices crisp in the oven.</li>
+              <li>bake for 15 minutes or until the avocados are golden and crispy. If desired, more oil can be drizzle while they are baking for additional crispness.</li>
+              <li>Serve with my chipotle dipping sauce (get the recipe <a href="http://gimmedelicious.com/2014/06/21/how-to-make-chipotle-sauce/" target="_blank">here</a>) or with ranch, ketchup, or your favorite dip!</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td class="background--white">Dill Pickle Pasta Salad<span class="sign plus"></span></td>
@@ -483,6 +523,40 @@
 
       <!-- START -->
         <tr class="expand-tr">
+          <td class="background--white">Healthy Tuna Stuffed Avocado<span class="sign plus"></span></td>
+          <td class="cooking-info">4-8 Servings | 10 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>4 avocados, halved and pitted</li>
+              <li>3 (4.5 oz) cans tuna, drained</li>
+              <li>1 red bell pepper, diced</li>
+              <li>1 jalapeno, minced</li>
+              <li>1 cup cilantro leaves, roughly chopped</li>
+              <li>1 lime, juiced</li>
+              <li>salt and pepper</li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Scoop out some of the avocado from the pitted area to widen the "bowl" area. Place the scooped avocado into a medium-size</li>
+              <li>mixing bowl. Mash it with a fork.</li>
+              <li>Add the tuna, bell pepper, jalapeno, and cilantro to the mixing bowl. Pour lime juice over. Stir it all together until everything is well mixed.</li>
+              <li>Scoop the tuna into the avocado bowls. Season with salt and pepper.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
           <td class="background--white">Spaghetti Squash Carbonara<span class="sign plus"></span></td>
           <td class="cooking-info">3 Servings | 12 min. prep time | 90 min. cook time</td>
         </tr>
@@ -521,6 +595,53 @@
           </td>
         </tr>
       <!-- END -->
+
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Spinach Stuffed Chicken Breasts<span class="sign plus"></span></td>
+          <td class="cooking-info">3 Servings | 10 min. prep time | 25 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>3 chicken breasts</li>
+                  <li>8 oz chopped frozen spinach, cooked according to package directions and squeezed dry.</li>
+                  <li>3 oz feta, crumbled ( about ½ cup )</li>
+                  <li>4 oz cream cheese</li>
+                  <li>1 clove garlic, diced</li>
+                  <li>¼ teaspoon salt, divided</li>
+                  <li>⅛ teaspoon pepper</li>
+                  <li>1 tablespoon olive oil</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li >Preheat oven to 450 degrees fahrenheit.</li>
+              <li >Mix the chopped frozen spinach, feta, cream cheese, garlic and half of the salt in a medium sized bowl.</li>
+              <li >Cut a pocket into each chicken breast. If you are unsure of how to cut a pocket into the chicken without also cutting a pocket into your hand, try this: One at a time, place the chicken flat on a cutting board, and press a large spatula ( or something else that cannot be stabbed, i.e. DO NOT USE YOUR HAND) flat on top of the breast. Make sure that you are pressing the spatula down hard enough to hold the chicken in place. You may need to actually dig the edge of the spatula into the meat just a little bit to accomplish this. Insert the knife ⅔ of the way into the side of the thickest part of the chicken, and slice down to the thinnest part, stopping before you cut through; you want a pocket not a flap.</li>
+              <li >Separate the spinach and cheese mixture into three parts, and roll into thick logs. Stuff each log into the pocket you made in the chicken breasts. Season with remaining salt and pepper.</li>
+              <li >Heat the olive oil in an ovenproof pan set over medium high heat, then add the stuffed chicken, "top" side down. Cook for 5 minutes, then flip the chicken over.</li>
+              <li >Place the pan into the oven, and bake for 10 minutes. If your chicken breasts are extraordinarily thick, cook for 2 to 5 minutes longer, or until juices run clear when you poke the chicken with a fork.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
 
 
 
