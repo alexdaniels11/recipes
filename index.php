@@ -18,6 +18,44 @@
 
 
 
+      
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Avocado Alfredo Pasta<span class="sign plus"></span></td>
+          <td>15 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>1 cup milk of choice</li>
+                  <li>2/3 cup fully mashed avocado (160g)</li>
+                  <li>1/4 tsp garlic powder</li>
+                  <li>1/2 tsp salt, or more to taste</li>
+                  <li>2 tsp oil or buttery spread - adds richness and helps sauce adhere to pasta, but can be omitted</li>
+                  <li>8 oz uncooked noodles OR spaghetti squash, black bean pasta, steamed veggies, etc.</li>
+                  <li>nutritional yeast or Parmesan (such as vegan parma) for serving</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Whisk the first 4 ingredients and optional oil in a small saucepan. (For a smoother and creamier sauce, blend or use a hand blender to blend until smooth.)</li>
+              <li>If making pasta, bring a separate pot of salted water to a boil.</li>
+              <li>Once boiling, cook pasta according to package directions. Drain fully (do not rinse with water), then set aside.</li>
+              <li>Heat the first small saucepan until sauce thickens and begins to boil, then stir in the pasta and remove from the heat.</li>
+              <li>Serve immediately, sprinkling with nutritional yeast or Parmesan if desired.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td class="background--white">Avocado Caprese Skillet Chicken<span class="sign plus"></span></td>
@@ -58,6 +96,45 @@
       <!-- END -->
 
 
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td colspan="2" class="background--white">Avocado Cucumber Egg Salad<span class="sign plus"></span></td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>6 eggs, hard boiled</li>
+                  <li>1 cucumber</li>
+                  <li>1 lg avocado</li>
+                  <li>¼ cup mayo</li>
+                  <li>½ tsp paprika</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Hard boiled eggs: bring water to boil in a medium pot (enough to cover the eggs). Add eggs carefully, using a large spoon, so you don't crack the eggs. Cover, boil for about a minute and turn off the heat. Leave the pot on the same burner but with heat turned off. Let eggs sit in the pot for about 20-25 minutes. This method has not failed me yet but you are of course free to use your method of making hard boiled eggs.</li>
+              <li>Peel and dice hard boiled eggs. Add them to a mixing bowl.</li>
+              <li>Peel cucumber, cut it in half lengthwise and scoop out the seeded center, leaving just the outer meat. Dice the cucumber and add it to the eggs.</li>
+              <li>Cut avocado in half. Take out the pit and gentry cut avocado meat lengthwise, then width-wise, not cutting through the avocado skin. Gently peel avocado skin off the meat and add avocado cubes to the mixing bowl.</li>
+              <li>Add paprika, salt and mayo. Very gently, fold the salad, mixing all ingredients until combined.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Baked Bell Pepper Tacos<span class="sign plus"></span></td>
@@ -90,6 +167,55 @@
         </tr>
       <!-- END -->
       
+
+
+
+      
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Baked Parmesan Zucchini<span class="sign plus"></span></td>
+          <td class="cooking-info">4 Servings | 10 min. prep time | 20 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>4 zucchini, quartered lengthwise</li>
+                  <li>1/2 cup freshly grated Parmesan</li>
+                  <li>1/2 teaspoon dried thyme</li>
+                  <li>1/2 teaspoon dried oregano</li>
+                  <li>1/2 teaspoon dried basil</li>
+                  <li>1/4 teaspoon garlic powder</li>
+                  <li>Kosher salt and freshly ground black pepper, to taste</li>
+                  <li>2 tablespoons olive oil</li>
+                  <li>2 tablespoon chopped fresh parsley leaves</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.</li>
+              <li>In a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.</li>
+              <li>Place zucchini onto prepared baking sheet. Drizzle with olive oil and sprinkle with Parmesan mixture. Place into oven and bake until tender, about 15 minutes. Then broil for 2-3 minutes, or until crisp and golden brown.</li>
+              <li>Serve immediately, garnished with parsley, if desired.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
 
 
 
@@ -387,6 +513,93 @@
 
 
 
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Chicken Broccoli Alfredo Stuffed Shells<span class="sign plus"></span></td>
+          <td class="cooking-info">4-6 Servings | 20 min. prep time | 35 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>1 jar (16 oz) alfredo sauce</li>
+                  <li>2 cups cooked chicken, shredded</li>
+                  <li>2 cups cooked broccoli, chopped</li>
+                  <li>1 cup shredded cheddar (or mozzaerlla) cheese</li>
+                  <li>¼ cup shredded parmesan</li>
+                  <li>21 jumbo pasta shells, cooked</li>
+                  <li>1½ - 2 cups spaghetti sauce (optional, but I love the combination of alfredo with tomato sauce!)</li>
+                  <li>Salt/Pepper to season (if needed)</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Pre-heat oven to 350 degrees.</li>
+              <li>In a large bowl, mix alfredo, chicken, broccoli, and cheeses.</li>
+              <li>Spoon mixture into pasta shells.</li>
+              <li>Grease 13 x 9 baking dish with butter or cooking spray.</li>
+              <li>Evenly spread spaghetti sauce on bottom of baking dish.</li>
+              <li>Arrange shells in baking pan.</li>
+              <li>Cover with foil and bake 35 minutes until heated thru.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+      
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Creamy Cucumber Salad<span class="sign plus"></span></td>
+          <td class="cooking-info">8 servings | 10 min. prep time | 10 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>2 long english cucumbers</li>
+                  <li>½ cup plain greek yogurt (or sour cream)</li>
+                  <li>3 tablespoons mayonnaise or dressing (I used light)</li>
+                  <li>¼ cup fresh dill, chopped</li>
+                  <li>3 tablespoons white vinegar</li>
+                  <li>½ teaspoon white sugar</li>
+                  <li>salt to taste</li>
+                  <li>Optional: ⅓ cup sliced white onion</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Peel the cucumbers and cut in half lengthwise. Scrape out the seeds and slice into ¼" slices</li>
+              <li>Combine all dressing ingredients and toss with cucumbers. Refrigerate 1 hour before serving</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Creamy Parmesan Garlic Muchroom Chicken<span class="sign plus"></span></td>
@@ -496,11 +709,11 @@
               </li>
               <li>Dressing
                 <ul>
-                <li>⅔ cup mayonnaise</li>
-                <li>⅓ cup sour cream</li>
-                <li>⅛ tsp cayenne pepper</li>
-                <li>4 tablespoons pickle juice</li>
-                <li>salt &amp; pepper to taste</li>
+                  <li>⅔ cup mayonnaise</li>
+                  <li>⅓ cup sour cream</li>
+                  <li>⅛ tsp cayenne pepper</li>
+                  <li>4 tablespoons pickle juice</li>
+                  <li>salt &amp; pepper to taste</li>
                 </ul>
               </li>
             </ul>
@@ -516,6 +729,77 @@
         </tr>
       <!-- END -->
 
+
+
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Garlic Ranch Mashed Potatoes<span class="sign plus"></span></td>
+          <td class="cooking-info">8 Servings</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>4 lbs red skinned potatoes</li>
+                  <li>4 cloves fresh garlic</li>
+                  <li>4 tablespoons butter</li>
+                  <li>1 cup of sour cream or greek yogurt (I use greek yogurt)</li>
+                  <li>⅔ cup Ranch Dressing</li>
+                  <li>salt &amp; pepper to taste</li>
+                  <li>milk or cream as needed</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Wash potatoes, peel off about ⅔ of the skin, (leaving some on the potatoes) and chop into large chunks. Slice the cloves of garlic into 3 pieces each. Boil the potatoes and garlic in a large pot of water until potatoes are tender (about 15 minutes).</li>
+              <li>Drain potatoes &amp; garlic and mash slightly with a potato masher. Add in remaining ingredients and mash to desired consistency. Add additional milk if required.</li>
+              <li>If the sour cream cools the potatoes down too much, place them back into the saucepan they were cooked in and heat.</li>
+              <li>These can be put into a casserole dish and kept warm until ready to serve.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Grilled Macaroni &amp; Cheese Sandwich<span class="sign plus"></span></td>
+          <td class="cooking-info">2 Servings | 15 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>4 slices of sandwich bread</li>
+              <li>2 tbsp butter spread</li>
+              <li>4 slices of cheddar cheese</li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Make macaroni and cheese. Spread about 1/2 tbsp butter on one side of each slice of bread</li>
+              <li>Place a slice of cheese on top of each un-buttered side of bread. Spread half of the macaroni cheese on one piece of bread and the other half on another piece of bread. Place remaining slices of bread on top, to form two sandwiches. Place frying pan on stove and turn to medium heat. Once hot, place both sandwiches in the frying pan, cooking the buttered sides until golden and toasty and the center of the sandwiches are melty</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
 
 
 
@@ -548,6 +832,148 @@
           </td>
         </tr>
       <!-- END -->
+
+
+
+
+
+
+
+      
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Loaded Mashed Potato Balls<span class="sign plus"></span></td>
+          <td class="cooking-info">25 Servings | 20 min. prep time | 15 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>4 slices bacon, diced</li>
+                  <li>2 cups vegetable oil, or more, as needed</li>
+                  <li>3 cups leftover mashed potatoes</li>
+                  <li>1 cup shredded cheddar cheese</li>
+                  <li>2 tablespoons chopped fresh chives</li>
+                  <li>1/2 teaspoon cayenne pepper, optional</li>
+                  <li>2 large eggs, beaten</li>
+                  <li>1 1/2 cups Panko*</li>
+                  <li>2 tablespoons freshly grated Parmesan</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Heat a large skillet over medium high heat. Add bacon and cook until brown and crispy, about 6-8 minutes. Transfer to a paper towel-lined plate; set aside.</li>
+              <li>Heat vegetable oil in a large stockpot or Dutch oven over medium high heat.</li>
+              <li>In a large bowl, combine mashed potatoes, cheese, chives, cayenne pepper and bacon.</li>
+              <li>Using a small cookie scoop, roll the mixture into 1 1/4-to-1 1/2-inch balls, forming about 25.</li>
+              <li>Working one at a time, dip balls into eggs, then dredge in Panko, pressing to coat.</li>
+              <li>Working in batches, add balls to the Dutch oven and cook until evenly golden and crispy, about 2-3 minutes. Transfer to a paper towel-lined plate.</li>
+              <li>Serve immediately, garnished with Parmesan, if desired.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Oreo Cheesecake Cookies<span class="sign plus"></span></td>
+          <td class="cooking-info">Desert</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>4 ounces cream cheese, softened</li>
+                  <li>8 tablespoons salted butter, at room temperature</li>
+                  <li>3/4 cup sugar</li>
+                  <li>1 cup + 2 tablespoons all-purpose flour</li>
+                  <li>10 Oreo cookies, broken into pieces</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>In the body of a stand mixer fitted with a paddle attachment, beat cream cheese and butter until light and fluffy, scraping down the sides as needed.</li>
+              <li>Add the sugar and beat well.</li>
+              <li>Add in flour, a small bit at a time, beating in on low speed, just until incorporated. Fold in oreos until evenly distributed.</li>
+              <li>Cover bowl with plastic wrap and place in the refrigerator for at least 45 minutes, and up to 2 hours.</li>
+              <li>30 minutes prior to baking, preheat oven to 350&deg;.</li>
+              <li>Line a large baking sheet with parchment paper.</li>
+              <li>Using a cookie scoop, scoop out 2 tablespoon sized balls of dough, roll them into rounds, and place them on the cookie sheet. Lightly press down on each cookie.</li>
+              <li>Place pan in the oven to bake for 10-11 minutes, or until *just golden at the edges. They will still be very soft when you remove them from the oven - that's a good thing!</li>
+              <li>Cool on the baking sheet for 10 full minutes, then very carefully transfer to a cooling rack to cool completely.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Rosemary Garlic Butter Steaks<span class="sign plus"></span></td>
+          <td class="cooking-info">4 Servings</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>4 rump steaks (1 to 1.5-inches thick), room t&deg;</li>
+                  <li>2 or 3 garlic cloves</li>
+                  <li>2 Tbs fresh rosemary leaves</li>
+                  <li>3 Tbs butter</li>
+                  <li>1 Tbs olive oil</li>
+                  <li>Salt and pepper</li>
+                  <li>A splash of white or red wine</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Mince garlic and rosemary</li>
+              <li>Add 1 teaspoon salt (or to taste) and mince it a little longer. You can also do this with a mortar and pestle</li>
+              <li>Rub the paste over both sides of each steak</li>
+              <li>Heat a skillet over medium/high heat and melt butter</li>
+              <li>Add oil to prevent it from burning too much</li>
+              <li>Add steaks, season them with pepper and cook 1 or 2 minutes on each side</li>
+              <li>Turn it over, cook it 2 or 3 more minutes and add the wine (you can add extra garlic and rosemary now too to the skillet). It will steam furiously</li>
+              <li>Cook the steak 2 or 3 additional minutes for medium rare, remove steaks and let rest for 5 minutes</li>
+              <li>Meanwhile, cook the wine until reduced and a kind of sauce if formed. Slice the steaks and serve them with the sauce</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
 
 
 
@@ -603,6 +1029,55 @@
 
 
 
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td colspan="2" class="background--white">Spinach Artichoke Dip<span class="sign plus"></span></td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul style="list-style: none;">
+                  <li>1 cup coarsely chopped Artichoke Hearts</li>
+                  <li>1 cup chopped fresh spinach (frozen would probably be fine too)</li>
+                  <li>3 cloves of garlic, minced</li>
+                  <li>1/2 cup chopped onion</li>
+                  <li>1/2 cup sour cream</li>
+                  <li>4 oz. softened cream cheese</li>
+                  <li>2 tablespoons milk</li>
+                  <li>1 cup shredded mozzarella (plus more for sprinkling on top)</li>
+                  <li>1/2 cup grated parmesan cheese</li>
+                  <li>1/2 teaspoon garlic salt</li>
+                  <li>1/4 teaspoon Italian Seasoning</li>
+                  <li>1/8 teaspoon pepper</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat the oven to 400&deg;</li>
+              <li>Combine all the ingredients in the order listed and mix until well combined</li>
+              <li>Pour into a greased pie plate (a 8x8 inch square pan or casserole dish would also work)</li>
+              <li>Sprinkle more mozzarella on top if desired</li>
+              <li>Bake for about half an hour until until bubbly and golden (you can broil it at the end if the cheese isn't toasty enough)</li>
+              <li>Serve</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
+
+
+
       <!-- START -->
         <tr class="expand-tr">
           <td class="background--white">Spinach Stuffed Chicken Breasts<span class="sign plus"></span></td>
@@ -633,6 +1108,40 @@
               <li >Separate the spinach and cheese mixture into three parts, and roll into thick logs. Stuff each log into the pocket you made in the chicken breasts. Season with remaining salt and pepper.</li>
               <li >Heat the olive oil in an ovenproof pan set over medium high heat, then add the stuffed chicken, "top" side down. Cook for 5 minutes, then flip the chicken over.</li>
               <li >Place the pan into the oven, and bake for 10 minutes. If your chicken breasts are extraordinarily thick, cook for 2 to 5 minutes longer, or until juices run clear when you poke the chicken with a fork.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">White Queso<span class="sign plus"></span></td>
+          <td class="cooking-info">3 Servings | 5 min. prep time | 15 min. cook time</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Main
+                <ul>
+                  <li>1 lb pepperjack cheese</li>
+                  <li>8 oz full-fat cream cheese</li>
+                  <li>8 oz full-fat sour cream</li>
+                  <li>¾ cup whole milk</li>
+                  <li>1 can Rotel tomatoes &amp; green chilies, drained</li>
+                  <li>*NOTE: I have gotten mixed feedback about using low-fat substitutions so use full-fat dairy for best results!*</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>In a slow-cooker or medium pot, combine the cheese, cream cheese, sour cream, Rotel, and about half of the milk.</li>
+              <li>Turn heat onto low, and let the mixture heat until the cheeses melt and a smooth cream forms, stirring occasionally. Add more milk as needed.</li>
+              <li>Once melted, serve immediately, or transfer to a slow cooker with a "warm" setting to keep dip warm and melted. Enjoy!</li>
             </ol>
           </td>
         </tr>
