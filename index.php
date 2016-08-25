@@ -602,7 +602,7 @@
 
       <!-- START -->
         <tr class="expand-tr">
-          <td colspan="2" class="background--white">Creamy Parmesan Garlic Muchroom Chicken<span class="sign plus"></span></td>
+          <td colspan="2" class="background--white">Creamy Parmesan Garlic Mushroom Chicken<span class="sign plus"></span></td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
