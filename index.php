@@ -11,6 +11,7 @@
         <tr>
           <th>List of Recipes</th>
           <th>Cooking Information</th>
+          <th>Type</th>
         </tr>
       </thead>
       <tbody>
@@ -24,6 +25,7 @@
         <tr class="expand-tr">
           <td class="background--white">Avocado Alfredo Pasta<span class="sign plus"></span></td>
           <td>15 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -60,6 +62,7 @@
         <tr class="expand-tr">
           <td class="background--white">Avocado Caprese Skillet Chicken<span class="sign plus"></span></td>
           <td>4 Servings</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -104,6 +107,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Avocado Cucumber Egg Salad<span class="sign plus"></span></td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -138,6 +142,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Baked Bell Pepper Tacos<span class="sign plus"></span></td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -179,6 +184,7 @@
         <tr class="expand-tr">
           <td class="background--white">Baked Parmesan Zucchini<span class="sign plus"></span></td>
           <td class="cooking-info">4 Servings | 10 min. prep time | 20 min. cook time</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -223,6 +229,7 @@
         <tr class="expand-tr">
           <td class="background--white">Baked Pesto Parmesan Chicken<span class="sign plus"></span></td>
           <td class="cooking-info">4 Servings | 10 min. prep time | 30 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -258,6 +265,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Butter Cream Scallops<span class="sign plus"></span></td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -295,6 +303,7 @@
         <tr class="expand-tr">
           <td class="background--white">Buttermilk Ranch Oven Fried Chicken<span class="sign plus"></span></td>
           <td class="cooking-info">6 Servings | 10 min. prep time | 35 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -335,6 +344,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Buttermilk Roast Chicken with Garlic<span class="sign plus"></span></td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -375,6 +385,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Cheesy Tortellini Spinach Bake<span class="sign plus"></span></td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -418,6 +429,7 @@
         <tr class="expand-tr">
           <td class="background--white">Chicken and Potatoes with Garlic Parmesan Cream Sauce<span class="sign plus"></span></td>
           <td class="cooking-info">6 Servings</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -472,6 +484,7 @@
         <tr class="expand-tr">
           <td class="background--white">Chicken Bacon Garlic Alfredo Roll Ups<span class="sign plus"></span></td>
           <td class="cooking-info">8 Servings | 20 min. prep time | 30 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -522,6 +535,7 @@
         <tr class="expand-tr">
           <td class="background--white">Chicken Broccoli Alfredo Stuffed Shells<span class="sign plus"></span></td>
           <td class="cooking-info">4-6 Servings | 20 min. prep time | 35 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -566,6 +580,7 @@
         <tr class="expand-tr">
           <td class="background--white">Creamy Cucumber Salad<span class="sign plus"></span></td>
           <td class="cooking-info">8 servings | 10 min. prep time | 10 min. cook time</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -603,6 +618,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Creamy Parmesan Garlic Mushroom Chicken<span class="sign plus"></span></td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -655,6 +671,7 @@
         <tr class="expand-tr">
           <td class="background--white">Crispy Baked Avocado Fries &amp; Chipotle Dipping Sauce<span class="sign plus"></span></td>
           <td class="cooking-info">2 Servings | 5 min. prep time | 20 min. cook time</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -693,6 +710,7 @@
         <tr class="expand-tr">
           <td class="background--white">Dill Pickle Pasta Salad<span class="sign plus"></span></td>
           <td class="cooking-info">8 Servings | 10 min. prep time | 8 min. cook time</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -742,6 +760,7 @@
         <tr class="expand-tr">
           <td class="background--white">Garlic Ranch Mashed Potatoes<span class="sign plus"></span></td>
           <td class="cooking-info">8 Servings</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -783,6 +802,7 @@
         <tr class="expand-tr">
           <td class="background--white">Grilled Macaroni &amp; Cheese Sandwich<span class="sign plus"></span></td>
           <td class="cooking-info">2 Servings | 15 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -809,6 +829,7 @@
         <tr class="expand-tr">
           <td class="background--white">Healthy Tuna Stuffed Avocado<span class="sign plus"></span></td>
           <td class="cooking-info">4-8 Servings | 10 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -844,6 +865,7 @@
         <tr class="expand-tr">
           <td class="background--white">Loaded Mashed Potato Balls<span class="sign plus"></span></td>
           <td class="cooking-info">25 Servings | 20 min. prep time | 15 min. cook time</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -888,8 +910,8 @@
 
       <!-- START -->
         <tr class="expand-tr">
-          <td class="background--white">Oreo Cheesecake Cookies<span class="sign plus"></span></td>
-          <td class="cooking-info">Desert</td>
+          <td colspan="2" class="background--white">Oreo Cheesecake Cookies<span class="sign plus"></span></td>
+          <td>Desert</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -937,6 +959,7 @@
         <tr class="expand-tr">
           <td class="background--white">Rosemary Garlic Butter Steaks<span class="sign plus"></span></td>
           <td class="cooking-info">4 Servings</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -985,6 +1008,7 @@
         <tr class="expand-tr">
           <td class="background--white">Spaghetti Squash Carbonara<span class="sign plus"></span></td>
           <td class="cooking-info">3 Servings | 12 min. prep time | 90 min. cook time</td>
+          <td>Healthy Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -1033,6 +1057,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Spinach Artichoke Dip<span class="sign plus"></span></td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -1082,6 +1107,7 @@
         <tr class="expand-tr">
           <td class="background--white">Spinach Stuffed Chicken Breasts<span class="sign plus"></span></td>
           <td class="cooking-info">3 Servings | 10 min. prep time | 25 min. cook time</td>
+          <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -1121,6 +1147,7 @@
         <tr class="expand-tr">
           <td class="background--white">White Queso<span class="sign plus"></span></td>
           <td class="cooking-info">3 Servings | 5 min. prep time | 15 min. cook time</td>
+          <td>Side Item</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>

@@ -22,4 +22,33 @@ body {
 	padding-left: .5rem !important;
 }
 
+.ma-table-header tr th:first-child {
+	width: 450px;
+}
+
+.ma-table-header tr th:last-child {
+	width: 200px;
+}
+
+@media (max-width: 1199px) {
+	.ma-table-header tr th:last-child {
+		width: auto;
+	}
+}
+
+@media (max-width: 991px) {
+	.ma-table-header tr th:first-child {
+		width: auto;
+	}
+}
+
+@media (max-width: 991px) {
+	.ma-table-header tr th:first-child {
+		width: auto;
+	}
+	.ma-container {
+		max-width: 100%;
+	}
+}
+
 /* YOUR CUSTOM CSS HERE */
