@@ -27,7 +27,7 @@ body {
 }
 
 .ma-table-header tr th:last-child {
-	width: 200px;
+	width: 150px;
 }
 
 @media (max-width: 1199px) {
