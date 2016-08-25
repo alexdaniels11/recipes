@@ -27,19 +27,7 @@ body {
 }
 
 .ma-table-header tr th:last-child {
-	width: 150px;
-}
-
-@media (max-width: 1199px) {
-	.ma-table-header tr th:last-child {
-		width: auto;
-	}
-}
-
-@media (max-width: 991px) {
-	.ma-table-header tr th:first-child {
-		width: auto;
-	}
+	width: 110px;
 }
 
 @media (max-width: 991px) {
