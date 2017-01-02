@@ -1001,6 +1001,70 @@
 
 
 
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Slow Cooker Italian Turkey Meatballs<span class="sign plus"></span></td>
+          <td class="cooking-info">6 Servings | 20 min. prep time | 4.5 hr cook time</td>
+          <td>Side Item</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>The Meatballs
+                <ul>
+                  <li>1 medium zucchini (7 ounces), shredded</li>
+                  <li>1 1/4 pounds 93/7 lean ground turkey</li>
+                  <li>1/4 cup seasoned whole-wheat bread crumbs</li>
+                  <li>1/4 cup grated Pecorino Romano </li>
+                  <li>1/4 cup chopped fresh parsley</li>
+                  <li>1 large clove garlic, crushed</li>
+                  <li>1 large egg, beaten</li>
+                  <li>1 teaspoon kosher salt</li>
+                  <li>Ground black pepper, to taste</li>
+                </ul>
+              </li>
+            </ul>
+            <ul>
+              <li>The Sauce
+                <ul>
+                  <li>1 teaspoon olive oil</li>
+                  <li>4 cloves garlic, smashed slightly</li>
+                  <li>1 (28-ounce) can crushed tomatoes</li>
+                  <li>2 tablespoons grated Pecorino Romano </li>
+                  <li>1 bay leaf</li>
+                  <li>Black pepper, to taste</li>
+                  <li>1 tablespoon chopped fresh basil</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>
+              <li>Preheat the oven to 375&deg;</li>
+              <li>Prick the squash all over with a fork</li>
+              <li>Sprinkle with 1 tsp salt and 3/4 tsp. pepper</li>
+              <li>Roast on a foil lined pan  1 to 1 1/2 hours</li>
+              <li>Let cool a bit.  Slice in half lengthwise, scoop out seeds and shred the squash with a fork then transfer to a large bowl</li>
+              <li>In a large saute pan, over medium heat, cook the bacon until it becomes crispy</li>
+              <li>Add the garlic and saute for 1 minute</li>
+              <li>Add the broth and cook until the liquid has completely evaporated</li>
+              <li>In a medium bowl, whisk the eggs together with the cheese and season with the remaining salt and pepper</li>
+              <li>Combine the eggs with the bacon mixture, warming the eggs in the pan (Do not let the eggs cook through)</li>
+              <li>Add the spaghetti squash and toss to thoroughly combine and until squash is heated through</li>
+              <li>Adjust seasoning if necessary and serve immediately</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1008,7 +1072,7 @@
         <tr class="expand-tr">
           <td class="background--white">Spaghetti Squash Carbonara<span class="sign plus"></span></td>
           <td class="cooking-info">3 Servings | 12 min. prep time | 90 min. cook time</td>
-          <td>Healthy Entrée</td>
+          <td>Healthy</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
