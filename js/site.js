@@ -17,8 +17,6 @@
 	    });
 	});
 	$(document).on('click', '.expand-tr', function () {
-	    $(this).find('.minus, .plus').toggleClass('minus plus')
-	});
-	$(document).on('click', '.expand-tr', function () {
-	    $(this).find('.background--white, .background--gray').toggleClass('background--white background--gray')
+	    $(this).find('.minus, .plus').toggleClass('minus plus');
+	    $(this).find('.background--white, .background--gray').toggleClass('background--white background--gray');
 	});
