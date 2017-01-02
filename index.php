@@ -6,7 +6,7 @@
     <p>Use the search bar to find the recipe you are looking for and then click the recipe you want to do. Inside each recipe you'll find ingredients with amounts and directions. Enjoy!</p>
 
     <input class="ma-input margin-0-0-8-0" type="search" id="searchExpandableTable" placeholder="Type to search for recipes...">
-    <table id="searchTable" class="ma-table ma-table-fullwidth ma-table-fixed expandable-table-data">
+    <table id="searchTable" class="recipe-table ma-table ma-table-fullwidth ma-table-fixed expandable-table-data">
       <thead class="ma-table-header">
         <tr>
           <th>List of Recipes</th>
