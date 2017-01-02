@@ -1003,10 +1003,9 @@
 
       <!-- START -->
         <tr class="expand-tr">
-          <td class="background--white">Italian Turkey Meatballs<span class="sign plus"></span></td>
+          <td class="background--white">Slow Cooker Italian Turkey Meatballs<span class="sign plus"></span></td>
           <td class="cooking-info">6 Servings | 20 min. prep time | 4.5 hr cook time</td>
           <td>Healthy</td>
-          <td style="display: none;">slow cooker</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
