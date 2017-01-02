@@ -1005,7 +1005,7 @@
         <tr class="expand-tr">
           <td class="background--white">Slow Cooker Italian Turkey Meatballs<span class="sign plus"></span></td>
           <td class="cooking-info">6 Servings | 20 min. prep time | 4.5 hr cook time</td>
-          <td>Side Item</td>
+          <td>Healthy</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -1040,18 +1040,14 @@
           </td>
           <td>
             <ol>
-              <li>Preheat the oven to 375&deg;</li>
-              <li>Prick the squash all over with a fork</li>
-              <li>Sprinkle with 1 tsp salt and 3/4 tsp. pepper</li>
-              <li>Roast on a foil lined pan  1 to 1 1/2 hours</li>
-              <li>Let cool a bit.  Slice in half lengthwise, scoop out seeds and shred the squash with a fork then transfer to a large bowl</li>
-              <li>In a large saute pan, over medium heat, cook the bacon until it becomes crispy</li>
-              <li>Add the garlic and saute for 1 minute</li>
-              <li>Add the broth and cook until the liquid has completely evaporated</li>
-              <li>In a medium bowl, whisk the eggs together with the cheese and season with the remaining salt and pepper</li>
-              <li>Combine the eggs with the bacon mixture, warming the eggs in the pan (Do not let the eggs cook through)</li>
-              <li>Add the spaghetti squash and toss to thoroughly combine and until squash is heated through</li>
-              <li>Adjust seasoning if necessary and serve immediately</li>
+              <li>For the meatballs: Using paper towels, squeeze all the excess water from the zucchini.</li>
+              <li>Put the zucchini in a large bowl, and add the turkey, bread crumbs, Romano, parsley, garlic, egg, salt and pepper to taste. Mix well.</li>
+              <li>Gently form 24 meatballs (about 1 1/4 ounces each). Set aside.</li>
+              <li>For the sauce: In a small skillet, heat the olive oil over medium heat.</li>
+              <li>Add the garlic, and cook, stirring often, until golden brown, about 1 1/2 minutes.</li>
+              <li>Transfer to a 6-quart slow cooker and add the tomatoes, Romano, bay leaf and pepper to taste.</li>
+              <li>Slowly drop the meatballs into the sauce so they are all in a single layer at the bottom of the slow cooker.</li>
+              <li>Cover and cook on low for 4–5 hours, until meatballs are tender and cooked through. To serve, discard the bay leaf and garnish with basil.</li>
             </ol>
           </td>
         </tr>
