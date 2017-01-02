@@ -34,11 +34,6 @@ body {
 	width: 110px;
 }
 
-tr.expand-tr .tags {
-	position: relative;
-	width: 0;
-}
-
 @media (max-width: 991px) {
 	.ma-table-header tr th:first-child {
 		width: auto;
