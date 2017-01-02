@@ -1007,6 +1007,7 @@
           <td class="cooking-info">6 Servings | 20 min. prep time | 4.5 hr cook time</td>
           <td>Healthy</td>
         </tr>
+        <span class="tags">slow cooker, italian, turkey, meatballs, zucchini</span>
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
