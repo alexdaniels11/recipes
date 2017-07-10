@@ -965,7 +965,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td colspan="2" class="background--white">Oreo Cheesecake Cookies<span class="sign plus"></span></td>
-          <td>Desert</td>
+          <td>Dessert</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
@@ -1254,6 +1254,51 @@
       <!-- END -->
 
 
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Triple Chocolate Surprise<span class="sign plus"></span></td>
+          <td class="cooking-info">10 Servings | 5 min. prep time | 3-8 hr. cook time</td>
+          <td>Dessert</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Ingredients
+                <ul>
+                  <li>1 envelope chocolate cake mix</li>
+                  <li>8 ounces sour cream</li>
+                  <li>1 envelope instant chocolate pudding mix</li>
+                  <li>1 cup chocolate chop morsels</li>
+                  <li>¾ cup oil</li>
+                  <li>4 eggs</li>
+                  <li>1 cup water</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>Directions
+              <li>Spray the stoneware with nonstick cooking spray or lightly grease.</li>
+              <li>Mix cake mix, sour cream, pudding mix, chocolate chips, oil, eggs, and water in a bowl.</li>
+              <li>Pour in stoneware.</li>
+              <li>Cover and cook on Low 6-8 hours or on High 3-4 hours.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+      
 
 
 
