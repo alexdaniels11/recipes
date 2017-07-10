@@ -141,7 +141,8 @@
 
       <!-- START -->
         <tr class="expand-tr">
-          <td colspan="2" class="background--white">Baked Bell Pepper Tacos<span class="sign plus"></span></td>
+          <td class="background--white">Baked Bell Pepper Tacos<span class="sign plus"></span></td>
+          <td>4 Servings | 10 min. prep time | 20 min. cook time</td>
           <td>Entrée</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
