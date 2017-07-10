@@ -30,7 +30,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>1 cup milk of choice</li>
                   <li>2/3 cup fully mashed avocado (160g)</li>
@@ -44,7 +44,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Whisk the first 4 ingredients and optional oil in a small saucepan. (For a smoother and creamier sauce, blend or use a hand blender to blend until smooth.)</li>
               <li>If making pasta, bring a separate pot of salted water to a boil.</li>
               <li>Once boiling, cook pasta according to package directions. Drain fully (do not rinse with water), then set aside.</li>
@@ -67,7 +67,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>2 (10 - 11 oz each) boneless skinless chicken breasts, butterflied and halved</li>
                   <li>1/2 tsp garlic powder</li>
@@ -85,7 +85,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>In a bowl mix together garlic powder, onion powder, Italian seasoning, 1/2 tsp salt and 1/4 tsp pepper. Sprinkle mixture evenly over both sides of each chicken cutlet</li>
               <li>Heat olive oil in a 12-inch skillet over medium-high heat</li>
               <li>Add chicken (cover pan with a splatter screen if you have one) and cook until golden brown on bottom, about 4 - 6 minutes</li>
@@ -112,7 +112,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>6 eggs, hard boiled</li>
                   <li>1 cucumber</li>
@@ -124,7 +124,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Hard boiled eggs: bring water to boil in a medium pot (enough to cover the eggs). Add eggs carefully, using a large spoon, so you don't crack the eggs. Cover, boil for about a minute and turn off the heat. Leave the pot on the same burner but with heat turned off. Let eggs sit in the pot for about 20-25 minutes. This method has not failed me yet but you are of course free to use your method of making hard boiled eggs.</li>
               <li>Peel and dice hard boiled eggs. Add them to a mixing bowl.</li>
               <li>Peel cucumber, cut it in half lengthwise and scoop out the seeded center, leaving just the outer meat. Dice the cucumber and add it to the eggs.</li>
@@ -147,7 +147,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 large Bell Peppers</li>
                   <li>3-4 cups of Taco Filling of your choice</li>
@@ -161,7 +161,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Pre-heat oven to 400 degrees</li>
               <li>Slice each pepper in half and hollow out the middle</li>
               <li>Lay peppers on baking sheet and cook for 8-10 minutes or 10-15 minutes for softer peppers</li>
@@ -189,7 +189,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 zucchini, quartered lengthwise</li>
                   <li>1/2 cup freshly grated Parmesan</li>
@@ -205,7 +205,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.</li>
               <li>In a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.</li>
               <li>Place zucchini onto prepared baking sheet. Drizzle with olive oil and sprinkle with Parmesan mixture. Place into oven and bake until tender, about 15 minutes. Then broil for 2-3 minutes, or until crisp and golden brown.</li>
@@ -234,7 +234,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 chicken breast (preferably organic)</li>
                   <li>6 tbsp pesto</li>
@@ -246,7 +246,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat oven to 390&deg;.</li>
               <li>Prepare the pesto.</li>
               <li>Place chicken breast in a baking tray that is lightly sprayed with cooking oil.</li>
@@ -270,7 +270,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>5-6 Scallops</li>
                   <li>Cooking Spray</li>
@@ -285,7 +285,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Place skillet over medium-high heat &amp; coat scallops with cooking spray, salt &amp; pepper</li>
               <li>Sear 3-5 minutes or until brown &amp; flip for 2-3 minutes</li>
               <li>Remove &amp; keep warm in oven at 150&deg;-175&deg;</li>
@@ -308,7 +308,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>3 - 4 lbs cut-up fryer</li>
                   <li>1 1oz envelope ranch salad dressing and seasoning mix</li>
@@ -323,7 +323,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Combine chicken, ranch seasoning, and buttermilk in a large ziploc bag.</li>
               <li>Turn the bag over several times to ensure the chicken is coated with the ranch and buttermilk and place in the refrigerator. Refrigerate for the entire day or at least one hour.</li>
               <li>Preheat the oven to 425&deg;.</li>
@@ -349,7 +349,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>6 Chicken Drumsticks</li>
                 </ul>
@@ -368,7 +368,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Combine all ingredients in a small bowl (minus Chicken Drumsticks) &amp; whisk until it is a marinade</li>
               <li>Place Chicken Drumsticks in Ziplock Bag &amp; pour marinade over chicken; let marinate for 24 hours</li>
               <li>Once Chicken Drumsticks have marinated for 24 hours, heat oven to 400&deg;</li>
@@ -390,7 +390,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>1 12 oz. cheese or cheese and spinach tortellini</li>
                   <li>4 strips bacon</li>
@@ -409,7 +409,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat oven to 350 degrees.</li>
               <li>Fill a large pot with water and bring to a boil. Add tortellini and cook as directed on the package.</li>
               <li>Cook bacon and cut up. Reserve bacon fat from pan. Add garlic and cook for a minute or two. Add flour to the pan and whisk for a minute. Add milk and mix until smooth. Add salt, pepper, lemon juice and basil and bring to a simmer.</li>
@@ -434,7 +434,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>6 bone-in, skin-on chicken thighs</li>
                   <li>1 tablespoon Italian seasoning</li>
@@ -461,7 +461,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat oven to 400&deg;. Lightly oil a 9×13 baking dish or coat with nonstick spray.</li>
               <li>Season chicken with Italian seasoning, salt and pepper, to taste.</li>
               <li>Melt 2 tablespoons butter in a large skillet over medium high heat. Add chicken, skin-side down, and sear both sides until golden brown, about 2-3 minutes per side; set aside.</li>
@@ -489,7 +489,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>8 Lasagne noodles</li>
                   <li>2 cups cooked and shredded chicken (I used rotisserie)</li>
@@ -510,7 +510,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat oven to 350 degrees. Spray an 9x13 inch pan with cooking spray and set aside.</li>
               <li>Cook the lasagna noodles according to package directions until al dente. Drain and rinse the noodles with cold water and lay them on a paper towel to remove excess water.</li>
               <li>In a medium saucepan add butter, heavy whipping cream, and cream cheese. Cook over medium heat and whisk until melted. Add the minced garlic, garlic powder, italian seasoning, salt and pepper. Continue to whisk until smooth. Add the grated parmesan cheese. Bring to a simmer and continue to cook for about 3-5 minutes or until it starts to thicken. Line the bottom of the 9x13 inch pan with 1 cup of the alfredo sauce.</li>
@@ -540,7 +540,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>1 jar (16 oz) alfredo sauce</li>
                   <li>2 cups cooked chicken, shredded</li>
@@ -555,7 +555,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Pre-heat oven to 350 degrees.</li>
               <li>In a large bowl, mix alfredo, chicken, broccoli, and cheeses.</li>
               <li>Spoon mixture into pasta shells.</li>
@@ -563,6 +563,59 @@
               <li>Evenly spread spaghetti sauce on bottom of baking dish.</li>
               <li>Arrange shells in baking pan.</li>
               <li>Cover with foil and bake 35 minutes until heated thru.</li>
+            </ol>
+          </td>
+        </tr>
+      <!-- END -->
+
+
+
+
+
+
+
+
+
+      <!-- START -->
+        <tr class="expand-tr">
+          <td class="background--white">Chicken Enchiladas - Crockpot<span class="sign plus"></span></td>
+          <td class="cooking-info">4 Servings | 10 min. prep time | 3-8 hr. cook time</td>
+          <td>Entrée</td>
+        </tr>
+        <tr class="sub-tr" style="display: none;">
+          <td>
+            <ul>
+              <li>Ingredients
+                <ul>
+                  <li>1 tbs. vegetable oil</li>
+                  <li>3 onions, sliced</li>
+                  <li>3 cloves garlic, minced</li>
+                  <li>3 jalapeño peppers, minced</li>
+                  <li>1 28 oz. can diced tomatoes</li>
+                  <li>1 tsp. salt</li>
+                  <li>1½ cups tomato juice</li>
+                  <li>12 flour tortillas</li>
+                  <li>4 cups cooked chicken, shredded</li>
+                  <li>½ cup grean onions, finely chopped</li>
+                  <li>3 cups Monterey Jack cheese, grated</li>
+                  <li>fresh cilantro, finely chopped</li>
+                  <li>shredded lettuce</li>
+                  <li>sour cream</li>
+                  <li>salsa</li>
+                </ul>
+              </li>
+            </ul>
+          </td>
+          <td>
+            <ol>Directions
+              <li>In a large skillet, cook the onions in the oil until translucent.</li>
+              <li>Add the garlic, jalapeño peppers, tomatoes and salt and cook for about 5 minutes or until sauce thickens slightly.</li>
+              <li>Meanwhile, pour the tomato juice into a large bowl. One at a time, dip the tortillas in the juice, ensuring all parts are moistened.</li>
+              <li>Lay tortillas on a plate and spread about ⅓ cup of chicken over them. Sprinkle with 1 teaspoon of the green onion and 2 tablespoons of grated cheese.</li>
+              <li>Fold ends over and roll up. Place the tortilla in the stoneware. Repeat the procedure to fill the remaining tortillas.</li>
+              <li>Pour the sauce over the tortillas and sprinkle with the remaining cheese and green onions.</li>
+              <li>Cover; cook on Low for 6-8 hours or on High for 3-4 hours</li>
+              <li>Garnish with cilantro, lettuce, salsa, and sour cream.</li>
             </ol>
           </td>
         </tr>
@@ -585,7 +638,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>2 long english cucumbers</li>
                   <li>½ cup plain greek yogurt (or sour cream)</li>
@@ -600,7 +653,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Peel the cucumbers and cut in half lengthwise. Scrape out the seeds and slice into ¼" slices</li>
               <li>Combine all dressing ingredients and toss with cucumbers. Refrigerate 1 hour before serving</li>
             </ol>
@@ -623,7 +676,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
           	<ul>
-          		<li>Main
+          		<li>Ingredients
           			<ul>
           				<li>4 Boneless Chicken Breasts</li>
               		<li>4 tbs. of Olive Oil</li>
@@ -646,7 +699,7 @@
           	</ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Add Chicken &amp; Olive Oil &amp; cook on medium-high for 3-5 minutes on each side; remove Chicken &amp; place in bowl</li>
               <li>Place Mushrooms in pan &amp; cook until tender; pour Mushrooms &amp; Olive Oil into bowl with Chicken</li>
               <li>Add Butter until melted</li>
@@ -676,7 +729,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>2 large avocados, sliced</li>
                   <li>Juice of ½ lime (optional)</li>
@@ -691,7 +744,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Pre-heat oven to 400 Degrees F. Pour 1 tablespoon oil in sheet tray or baking dish; set aside.</li>
               <li>Squeeze fresh lime juice on avocado slices to preserve their color while baking (this step is optional). Season with salt, pepper. Dredge in flour then dip in egg and coat in panko breadcrumbs. Be sure the avocado slices are coated very well in the panko.</li>
               <li>Place in a single layer on the greased sheet pan. Drizzle with the remaining oil or spray with cooking spray. This will help the avocado slices crisp in the oven.</li>
@@ -715,7 +768,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>½ lb dry shell pasta (about 3 cups)</li>
                   <li>¾ cup sliced pickles</li>
@@ -737,7 +790,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Boil pasta al dente according to package directions. Run under cold water to stop cooking</li>
               <li>Toss cold pasta with about ½ cup of pickle juice and set aside for about 5 minutes. Drain &amp; discard pickle juice.</li>
               <li>Combine all dressing ingredients in a small bowl and mix well.</li>
@@ -765,7 +818,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 lbs red skinned potatoes</li>
                   <li>4 cloves fresh garlic</li>
@@ -779,7 +832,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Wash potatoes, peel off about ⅔ of the skin, (leaving some on the potatoes) and chop into large chunks. Slice the cloves of garlic into 3 pieces each. Boil the potatoes and garlic in a large pot of water until potatoes are tender (about 15 minutes).</li>
               <li>Drain potatoes &amp; garlic and mash slightly with a potato masher. Add in remaining ingredients and mash to desired consistency. Add additional milk if required.</li>
               <li>If the sour cream cools the potatoes down too much, place them back into the saucepan they were cooked in and heat.</li>
@@ -813,7 +866,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Make macaroni and cheese. Spread about 1/2 tbsp butter on one side of each slice of bread</li>
               <li>Place a slice of cheese on top of each un-buttered side of bread. Spread half of the macaroni cheese on one piece of bread and the other half on another piece of bread. Place remaining slices of bread on top, to form two sandwiches. Place frying pan on stove and turn to medium heat. Once hot, place both sandwiches in the frying pan, cooking the buttered sides until golden and toasty and the center of the sandwiches are melty</li>
             </ol>
@@ -833,7 +886,7 @@
         </tr>
         <tr class="sub-tr" style="display: none;">
           <td>
-            <ul>
+            <ul>Ingredients
               <li>4 avocados, halved and pitted</li>
               <li>3 (4.5 oz) cans tuna, drained</li>
               <li>1 red bell pepper, diced</li>
@@ -844,7 +897,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Scoop out some of the avocado from the pitted area to widen the "bowl" area. Place the scooped avocado into a medium-size</li>
               <li>mixing bowl. Mash it with a fork.</li>
               <li>Add the tuna, bell pepper, jalapeno, and cilantro to the mixing bowl. Pour lime juice over. Stir it all together until everything is well mixed.</li>
@@ -870,7 +923,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 slices bacon, diced</li>
                   <li>2 cups vegetable oil, or more, as needed</li>
@@ -886,7 +939,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Heat a large skillet over medium high heat. Add bacon and cook until brown and crispy, about 6-8 minutes. Transfer to a paper towel-lined plate; set aside.</li>
               <li>Heat vegetable oil in a large stockpot or Dutch oven over medium high heat.</li>
               <li>In a large bowl, combine mashed potatoes, cheese, chives, cayenne pepper and bacon.</li>
@@ -916,7 +969,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 ounces cream cheese, softened</li>
                   <li>8 tablespoons salted butter, at room temperature</li>
@@ -928,7 +981,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>In the body of a stand mixer fitted with a paddle attachment, beat cream cheese and butter until light and fluffy, scraping down the sides as needed.</li>
               <li>Add the sugar and beat well.</li>
               <li>Add in flour, a small bit at a time, beating in on low speed, just until incorporated. Fold in oreos until evenly distributed.</li>
@@ -964,7 +1017,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>4 rump steaks (1 to 1.5-inches thick), room t&deg;</li>
                   <li>2 or 3 garlic cloves</li>
@@ -978,7 +1031,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Mince garlic and rosemary</li>
               <li>Add 1 teaspoon salt (or to taste) and mince it a little longer. You can also do this with a mortar and pestle</li>
               <li>Rub the paste over both sides of each steak</li>
@@ -1004,7 +1057,7 @@
       <!-- START -->
         <tr class="expand-tr">
           <td class="background--white">Slow Cooker Italian Turkey Meatballs<span class="sign plus"></span></td>
-          <td class="cooking-info">6 Servings | 20 min. prep time | 4.5 hr cook time</td>
+          <td class="cooking-info">6 Servings | 20 min. prep time | 4.5 hr. cook time</td>
           <td>Healthy</td>
         </tr>
         <tr class="sub-tr" style="display: none;">
@@ -1039,7 +1092,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>For the meatballs: Using paper towels, squeeze all the excess water from the zucchini.</li>
               <li>Put the zucchini in a large bowl, and add the turkey, bread crumbs, Romano, parsley, garlic, egg, salt and pepper to taste. Mix well.</li>
               <li>Gently form 24 meatballs (about 1 1/4 ounces each). Set aside.</li>
@@ -1073,7 +1126,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>2 teaspoons salt, divided</li>
                   <li>1 1/4 teaspoons fresh cracked black pepper</li>
@@ -1088,7 +1141,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat the oven to 375&deg;</li>
               <li>Prick the squash all over with a fork</li>
               <li>Sprinkle with 1 tsp salt and 3/4 tsp. pepper</li>
@@ -1122,7 +1175,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul style="list-style: none;">
                   <li>1 cup coarsely chopped Artichoke Hearts</li>
                   <li>1 cup chopped fresh spinach (frozen would probably be fine too)</li>
@@ -1141,7 +1194,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>Preheat the oven to 400&deg;</li>
               <li>Combine all the ingredients in the order listed and mix until well combined</li>
               <li>Pour into a greased pie plate (a 8x8 inch square pan or casserole dish would also work)</li>
@@ -1172,7 +1225,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>3 chicken breasts</li>
                   <li>8 oz chopped frozen spinach, cooked according to package directions and squeezed dry.</li>
@@ -1187,7 +1240,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li >Preheat oven to 450 degrees fahrenheit.</li>
               <li >Mix the chopped frozen spinach, feta, cream cheese, garlic and half of the salt in a medium sized bowl.</li>
               <li >Cut a pocket into each chicken breast. If you are unsure of how to cut a pocket into the chicken without also cutting a pocket into your hand, try this: One at a time, place the chicken flat on a cutting board, and press a large spatula ( or something else that cannot be stabbed, i.e. DO NOT USE YOUR HAND) flat on top of the breast. Make sure that you are pressing the spatula down hard enough to hold the chicken in place. You may need to actually dig the edge of the spatula into the meat just a little bit to accomplish this. Insert the knife ⅔ of the way into the side of the thickest part of the chicken, and slice down to the thinnest part, stopping before you cut through; you want a pocket not a flap.</li>
@@ -1212,7 +1265,7 @@
         <tr class="sub-tr" style="display: none;">
           <td>
             <ul>
-              <li>Main
+              <li>Ingredients
                 <ul>
                   <li>1 lb pepperjack cheese</li>
                   <li>8 oz full-fat cream cheese</li>
@@ -1225,7 +1278,7 @@
             </ul>
           </td>
           <td>
-            <ol>
+            <ol>Directions
               <li>In a slow-cooker or medium pot, combine the cheese, cream cheese, sour cream, Rotel, and about half of the milk.</li>
               <li>Turn heat onto low, and let the mixture heat until the cheeses melt and a smooth cream forms, stirring occasionally. Add more milk as needed.</li>
               <li>Once melted, serve immediately, or transfer to a slow cooker with a "warm" setting to keep dip warm and melted. Enjoy!</li>
